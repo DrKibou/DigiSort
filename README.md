@@ -22,5 +22,5 @@ This is a Flutter application designed to sort numbers utilizing the selection s
 ```
 ## Screenshots
 
-![](1.jpg | width = 100)
+<img src="1.jpg" width="48">
 ![](2.jpg =250x250)
