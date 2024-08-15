@@ -21,3 +21,6 @@ This is a Flutter application designed to sort numbers utilizing the selection s
         }
 ```
 ## Screenshots
+
+![Alternate Text](1.jpg)
+![Alternate Text](2.jpg)
