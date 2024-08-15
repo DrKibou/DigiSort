@@ -9,7 +9,7 @@ Platform: Runs on Android.
 ## Algorithm
 ```
  int n = arr.length;
-        // One by one move boundary of unsorted subarray
+        // One by one move boundary subarray
         for (int i = 0; i < n-1; i++)
         {
             // Find the minimum element
